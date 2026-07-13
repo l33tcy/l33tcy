@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://kitforai.com"><img src="https://img.shields.io/badge/Building-Kit%20for%20AI-5b5b5a?style=flat-square" alt="Kit for AI" /></a>
   <a href="https://kitforai.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkitforai.com&style=flat-square&label=kitforai.com" alt="Website" /></a>
-  <a href="mailto:contact@aymen.ma"><img src="https://img.shields.io/badge/email-contact%40aymen.ma-informational?style=flat-square" alt="Email" /></a>
 </p>
 
 ---
@@ -35,9 +34,5 @@ Explore the open-source developer hub → **[github.com/kitforai](https://github
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 Distributed backends, RAG pipelines, and developer tooling — TypeScript end to end, MCP for the agent layer.
-
-### 🌍 Elsewhere
-
-- 🌐 [kitforai.com](https://kitforai.com) · 📬 contact@aymen.ma · 📍 Paris
 
 <p align="center"><sub>Made for builders who want their AI to actually <em>know things</em>.</sub></p>
