@@ -7,6 +7,7 @@
 <p align="center">
   <a href="https://kitforai.com"><img src="https://img.shields.io/badge/Building-Kit%20for%20AI-5b5b5a?style=flat-square" alt="Kit for AI" /></a>
   <a href="https://kitforai.com"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkitforai.com&style=flat-square&label=kitforai.com" alt="Website" /></a>
+  <a href="mailto:l33tcy@proton.me"><img src="https://img.shields.io/badge/email-l33tcy%40proton.me-6d4aff?style=flat-square&logo=protonmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
