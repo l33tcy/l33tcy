@@ -37,3 +37,5 @@ Explore the open-source developer hub → **[github.com/kitforai](https://github
 Distributed backends, RAG pipelines, and developer tooling — TypeScript end to end, MCP for the agent layer.
 
 <p align="center"><sub>Made for builders who want their AI to actually <em>know things</em>.</sub></p>
+
+<!-- profile -->
